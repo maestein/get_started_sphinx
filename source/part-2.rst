@@ -3,8 +3,10 @@
 
 Lessons learned on the road
 #########
-<ol> Always eat breakfast.</ol>
-<ol> Wear sunscreen. </ol>
-
+- Always eat breakfast
+- Wear sunscreen
+- Keep your phone charged
+- Bring *a lot* of croissants
+- Drink more water
 
 .. include:: includes.txt
