@@ -8,8 +8,8 @@ Get Started with Sphinx
 .. toctree::
    :maxdepth: 2
 
-   part-1
-   part-2
+   This is part 1.
+   This is part 2.
 
 
 .. add new files to list above to include them in toc
