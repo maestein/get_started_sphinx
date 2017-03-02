@@ -1,4 +1,4 @@
-Get Started with Sphinx
+Two Wheeled Travels
 ###############################
 
 .. |Contents| replace:: Bike to Eat, Eat to Bike. Take Pictures. Drink beer.
