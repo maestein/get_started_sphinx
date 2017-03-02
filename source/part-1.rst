@@ -3,7 +3,7 @@
 Eurovelo Part Duex
 #########
 
-Eurovelo Part Duex begins on June 18, 2017.
+The fun begins on June 18, 2017.
 
 Switzerland ---> Amsterdam
 **************************
