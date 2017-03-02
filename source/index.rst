@@ -1,7 +1,7 @@
 Get Started with Sphinx
 ###############################
 
-.. |Contents| replace:: Table of Contents
+.. |Contents| replace:: Bike to Eat, Eat to Bike. Take Pictures. Drink beer.
 
 |Contents| 
 
