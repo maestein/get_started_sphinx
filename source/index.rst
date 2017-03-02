@@ -1,7 +1,7 @@
 Get Started with Sphinx
 ###############################
 
-..|Contents| replace:: Table of Contents
+.. |Contents| replace:: Table of Contents
 
 |Contents| 
 
