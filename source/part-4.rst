@@ -6,8 +6,7 @@ EuroVelo 15: From the source of the Rhine to its mouth in the North Sea
 
 The fun begins on June 18, 2017.
 
-Switzerland ---> Amsterdam
-**************************
+**Switzerland ---> Amsterdam**
 
 .. image:: http://www.rhinecycleroute.eu/UK_front-page/image8
 
