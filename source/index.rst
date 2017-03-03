@@ -1,7 +1,7 @@
 Two Wheeled Travels
 ###############################
 
-.. |Contents| replace:: Bike to Eat, Eat to Bike. Take Pictures. Drink beer.
+.. |Contents| replace:: Bike to Eat, Eat to Bike.
 
 |Contents| 
 
