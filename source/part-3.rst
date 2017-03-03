@@ -3,7 +3,10 @@
 More information
 #########
 
-http://www.rhinecycleroute.eu/
-https://www.bike-touring.de/
+
+`The Rhine Cycle Route - Official Website <http://www.rhinecycleroute.eu/>`_
+
+`Bike Touring Germany <https://www.bike-touring.de/>`_
+
 
 .. include:: includes.txt
