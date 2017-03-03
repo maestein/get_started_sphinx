@@ -10,7 +10,8 @@ Two Wheeled Travels
 
    part-1
    part-2
-   part-3
    part-4
+   part-3
+
 
 .. add new files to list above to include them in toc
